@@ -18,5 +18,5 @@ func init() {
 
 func main() {
   flag.Parse()
-  fmt.Printf("specMode: %v", specMode)
+  fmt.Printf("specMode: %v\n", specMode)
 }
